@@ -13,7 +13,7 @@ public class Main
 	    int max = 0;
 	    if(a>b){
 	        max = a;
-        System.out.println("maximum value is a="+a);
+        System.out.println("maximum value is the a="+a);
         
 	        
 	    }
